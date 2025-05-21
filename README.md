@@ -11,7 +11,7 @@ Resources: [📑 <a href="https://arxiv.org/abs/2502.11664">Paper (Arxiv)</a>]
 ## Method
 
 <div align="center">
-    <img src="./assets/images/vrope.jpg" width="50%" />
+    <img src="./assets/images/vrope.jpg" width="100%" />
 </div>
 
 - **Symmetric Bias Mitigation**: To counteract the attention bias present in RoPE-based encodings, we design a symmetric positional representation that encodes each spatial coordinate with both positive and negative components. By distributing attention more uniformly across spatial locations, this method prevents positional distortions and improves overall video understanding.
