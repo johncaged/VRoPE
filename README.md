@@ -5,6 +5,7 @@ Official implementation of **VRoPE: Rotary Position Embedding for Video Large La
 Resources: [📑 <a href="https://arxiv.org/abs/2502.11664">Paper (Arxiv)</a>]
 
 ## News
+- [2025/11/18] We have updated our official implementation of VRoPE.
 - [2025/10/31] Our paper has been accepted by EMNLP 2025 (Main)! We are cleaning up the code for release and will publish it soon—stay tuned!
 - [2025/5/21] We updated our paper on arxiv.
 - [2025/2/18] <a href="https://arxiv.org/abs/2502.11664">Paper</a> is now available on arxiv.
