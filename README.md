@@ -21,8 +21,7 @@ Resources: [📑 <a href="https://arxiv.org/abs/2502.11664">Paper (Arxiv)</a>]
 ## Todo
 
 - [&#10004;] Release Paper
-- [] Release Code (After the paper acceptance)
-- [] Release Checkpoints (After the paper acceptance)
+- [&#10004;] Release Code (After the paper acceptance)
 
 ## Citation
 
